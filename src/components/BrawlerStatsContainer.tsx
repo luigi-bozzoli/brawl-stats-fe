@@ -131,7 +131,7 @@ export default function BrawlerStatsContainer({
               paginated.map((map) => {
                 return (
                   <GenericStatsCard
-                    key={map.id}
+                    key={map.name}
                     entity={map}
                   />
                 );
