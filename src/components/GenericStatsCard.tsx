@@ -18,11 +18,9 @@ export default function GenericStatsCard(props: GenericStatsCardProps) {
     const { defaultOpen = false, leading } = props;
     const [open, setOpen] = useState(defaultOpen);
 
-    let id: string;
     let name: string;
     let stats: GenericStats;
 
-    id = props.entity.id;
     name = props.entity.name;
     stats = props.entity.stats;
 
