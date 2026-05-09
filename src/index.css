@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Fredoka:wght@300;400;600&family=Nunito:wght@400;700;800;900&family=Boogaloo&display=swap');
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource-variable/geist";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+
+  /* ── Stat pill: Win Rate ───────────────────── */
+  --color-stat-win-high-bg: rgba(34, 197, 94, 0.15);
+  --color-stat-win-high-text: #4ade80;
+  --color-stat-win-high-ring: rgba(74, 222, 128, 0.30);
+
+  --color-stat-win-mid-bg: rgba(234, 179, 8, 0.15);
+  --color-stat-win-mid-text: #facc15;
+  --color-stat-win-mid-ring: rgba(250, 204, 21, 0.30);
+
+  --color-stat-win-low-bg: rgba(239, 68, 68, 0.15);
+  --color-stat-win-low-text: #f87171;
+  --color-stat-win-low-ring: rgba(248, 113, 113, 0.30);
+
+  /* ── Matches ──────────────────────────────── */
+  --color-stat-matches-bg: rgba(148, 163, 184, 0.10);
+  --color-stat-matches-text: #94a3b8;
+  --color-stat-matches-ring: rgba(148, 163, 184, 0.20);
+
+  /* ── Star Player ─────────────────────────── */
+  --color-stat-star-bg: rgba(251, 191, 36, 0.15);
+  --color-stat-star-text: #fbbf24;
+  --color-stat-star-ring: rgba(251, 191, 36, 0.30);
+
+  /* ── BRAND FONTS ── */
+  --font-luckiest: "Luckiest Guy", cursive;
+  /* Display · hero numbers · headers */
+  --font-fredoka: "Fredoka", sans-serif;
+  /* UI labels · stats · body */
+  --font-nunito: "Nunito", sans-serif;
+  /* Long-form text · descriptions */
+  --font-boogaloo: "Boogaloo", cursive;
+  /* Badges · pills · secondary display */
+
+  /* ── CORE ACCENT COLORS ── */
+  --color-brawl-blue: #1e90ff;
+  /* Primary CTA · actions */
+  --color-brawl-yellow: #ffd700;
+  /* Trophies · rank · highlight */
+  --color-brawl-red: #ff3b3b;
+  /* Losses · danger · alerts */
+  --color-brawl-green: #39d353;
+  /* Wins · success · progress */
+  --color-brawl-teal: #00d4c8;
+  /* Star Power · secondary CTA */
+  --color-brawl-orange: #ff8c00;
+  /* Gems · currency · energy */
+  --color-brawl-purple: #9b5de5;
+  /* Epic · Legendary · rarity */
+  --color-brawl-pink: #ff4f9a;
+  /* Hypercharge · prestige */
+
+  /* ── GRADIENT ACCENTS ── */
+  --gradient-blue-teal: linear-gradient(135deg, #1e90ff, #00d4c8);
+  --gradient-epic: linear-gradient(135deg, #9b5de5, #ff4f9a);
+  --gradient-gold: linear-gradient(135deg, #ff8c00, #ffd700);
+  --gradient-danger: linear-gradient(135deg, #ff3b3b, #ff8c00);
+
+  /* ── BACKGROUND STACK (dark-first) ── */
+  --color-bg-base: #0f0f20;
+  /* Page root · deepest layer */
+  --color-brawl-dark: #1c1c2e;
+  /* Section backgrounds */
+  --color-bg-surface: #1f1f35;
+  /* Panels · sidebars */
+  --color-card-bg: #2a2a40;
+  /* Cards · modals */
+  --color-card-raised: #323250;
+  /* Hover state · elevated cards */
+
+  /* ── BORDERS & DIVIDERS ── */
+  --color-border: #3a3a58;
+  --color-border-subtle: #2e2e48;
+  --color-border-strong: #4a4a70;
+
+  /* ── TEXT RAMP ── */
+  --color-text-primary: #e8e8ff;
+  /* Headings · key values */
+  --color-text-secondary: #b8b8d8;
+  /* Labels · descriptions */
+  --color-text-muted: #7878a8;
+  /* Subtext · placeholders */
+  --color-text-disabled: #4a4a68;
+  /* Inactive elements */
+
+  /* ── SEMANTIC ALIASES ── */
+  --color-win: var(--color-brawl-green);
+  --color-loss: var(--color-brawl-red);
+  --color-trophy: var(--color-brawl-yellow);
+  --color-gem: var(--color-brawl-orange);
+  --color-star: var(--color-brawl-teal);
+  --color-epic: var(--color-brawl-purple);
+  --color-hyper: var(--color-brawl-pink);
+
+  /* ── SPACING ── */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-pill: 999px;
+}
+
+@theme inline {
+  --font-heading: var(--font-sans);
+  --font-sans: 'Geist Variable', sans-serif;
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --chart-1: oklch(0.87 0 0);
+  --chart-2: oklch(0.556 0 0);
+  --chart-3: oklch(0.439 0 0);
+  --chart-4: oklch(0.371 0 0);
+  --chart-5: oklch(0.269 0 0);
+  --radius: 0.625rem;
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+  --chart-1: oklch(0.87 0 0);
+  --chart-2: oklch(0.556 0 0);
+  --chart-3: oklch(0.439 0 0);
+  --chart-4: oklch(0.371 0 0);
+  --chart-5: oklch(0.269 0 0);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.556 0 0);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  html {
+    @apply font-sans;
+  }
+}

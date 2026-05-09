@@ -1,0 +1,66 @@
+[
+    {
+        "userId": "#8J9J8PQ8G",
+        "type": "stats",
+        "ranked": {
+            "victories": 179,
+            "defeats": 167,
+            "draws": 3
+        },
+        "star_player_count": 44,
+        "trophies": {
+            "gained": 2749,
+            "lost": 407,
+            "victories": 272,
+            "defeats": 161
+        }
+    },
+    {
+        "userId": "#LPGVV9V",
+        "type": "stats",
+        "ranked": {
+            "victories": 3
+        },
+        "star_player_count": 199,
+        "trophies": {
+            "gained": 6557,
+            "lost": 667,
+            "victories": 556,
+            "defeats": 263,
+            "draws": 1
+        }
+    },
+    {
+        "userId": "GLOBAL",
+        "type": "stats",
+        "ranked": {
+            "victories": 301,
+            "defeats": 241,
+            "draws": 3
+        },
+        "star_player_count": 485,
+        "trophies": {
+            "gained": 16019,
+            "lost": 1964,
+            "victories": 1378,
+            "defeats": 639,
+            "draws": 4
+        }
+    },
+    {
+        "userId": "#8GVYC8",
+        "type": "stats",
+        "ranked": {
+            "victories": 119,
+            "defeats": 74
+        },
+        "star_player_count": 242,
+        "trophies": {
+            "gained": 6713,
+            "lost": 890,
+            "victories": 550,
+            "defeats": 215,
+            "draws": 3
+        }
+    }
+]

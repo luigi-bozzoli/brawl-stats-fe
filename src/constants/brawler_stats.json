@@ -1,0 +1,277 @@
+{
+    "id": "#8GVYC8",
+    "brawlers": [
+        {
+            "id": "16000001",
+            "name": "COLT",
+            "stats": {
+                "ranked": {
+                    "victories": 25,
+                    "defeats": 7,
+                    "draws": 2
+                },
+                "star_player_count": 86,
+                "trophies": {
+                    "gained": 2635,
+                    "lost": 512,
+                    "defeats": 93,
+                    "draws": 2,
+                    "victories": 227
+                }
+            }
+        },
+        {
+            "id": "16000008",
+            "name": "NITA",
+            "stats": {
+                "ranked": {
+                    "victories": 18,
+                    "defeats": 10,
+                    "draws": 1
+                },
+                "star_player_count": 54
+            }
+        },
+        {
+            "id": "16000021",
+            "name": "GENE",
+            "stats": {
+                "trophies": {
+                    "gained": 3100,
+                    "lost": 450,
+                    "defeats": 80,
+                    "draws": 3,
+                    "victories": 260
+                }
+            }
+        },
+        {
+            "id": "16000002",
+            "name": "BULL",
+            "stats": {
+                "ranked": {
+                    "victories": 30,
+                    "defeats": 12,
+                    "draws": 0
+                },
+                "star_player_count": 40,
+                "trophies": {
+                    "gained": 1800,
+                    "lost": 600,
+                    "defeats": 120,
+                    "draws": 4,
+                    "victories": 150
+                }
+            }
+        },
+        {
+            "id": "16000003",
+            "name": "BROCK",
+            "stats": {
+                "ranked": {
+                    "victories": 22,
+                    "defeats": 9,
+                    "draws": 3
+                },
+                "star_player_count": 67,
+                "trophies": {
+                    "gained": 2900,
+                    "lost": 700,
+                    "defeats": 110,
+                    "draws": 5,
+                    "victories": 210
+                }
+            }
+        },
+        {
+            "id": "16000004",
+            "name": "EL PRIMO",
+            "stats": {
+                "ranked": {
+                    "victories": 15,
+                    "defeats": 20,
+                    "draws": 2
+                },
+                "star_player_count": 25,
+                "trophies": {
+                    "gained": 1500,
+                    "lost": 800,
+                    "defeats": 140,
+                    "draws": 6,
+                    "victories": 130
+                }
+            }
+        },
+        {
+            "id": "16000005",
+            "name": "BARLEY",
+            "stats": {
+                "ranked": {
+                    "victories": 28,
+                    "defeats": 6,
+                    "draws": 1
+                },
+                "star_player_count": 72,
+                "trophies": {
+                    "gained": 3200,
+                    "lost": 400,
+                    "defeats": 70,
+                    "draws": 2,
+                    "victories": 280
+                }
+            }
+        },
+        {
+            "id": "16000006",
+            "name": "POCO",
+            "stats": {
+                "ranked": {
+                    "victories": 19,
+                    "defeats": 11,
+                    "draws": 4
+                },
+                "star_player_count": 60,
+                "trophies": {
+                    "gained": 2700,
+                    "lost": 650,
+                    "defeats": 100,
+                    "draws": 7,
+                    "victories": 190
+                }
+            }
+        },
+        {
+            "id": "16000007",
+            "name": "ROSA",
+            "stats": {
+                "ranked": {
+                    "victories": 26,
+                    "defeats": 8,
+                    "draws": 2
+                },
+                "star_player_count": 49,
+                "trophies": {
+                    "gained": 2400,
+                    "lost": 550,
+                    "defeats": 95,
+                    "draws": 3,
+                    "victories": 210
+                }
+            }
+        },
+        {
+            "id": "16000009",
+            "name": "JESSIE",
+            "stats": {
+                "ranked": {
+                    "victories": 21,
+                    "defeats": 13,
+                    "draws": 1
+                },
+                "star_player_count": 58,
+                "trophies": {
+                    "gained": 2600,
+                    "lost": 620,
+                    "defeats": 105,
+                    "draws": 4,
+                    "victories": 200
+                }
+            }
+        },
+        {
+            "id": "16000010",
+            "name": "DYNAMIKE",
+            "stats": {
+                "ranked": {
+                    "victories": 17,
+                    "defeats": 14,
+                    "draws": 3
+                },
+                "star_player_count": 45,
+                "trophies": {
+                    "gained": 2200,
+                    "lost": 700,
+                    "defeats": 115,
+                    "draws": 5,
+                    "victories": 170
+                }
+            }
+        },
+        {
+            "id": "16000011",
+            "name": "TICK",
+            "stats": {
+                "ranked": {
+                    "victories": 23,
+                    "defeats": 10,
+                    "draws": 2
+                },
+                "star_player_count": 66,
+                "trophies": {
+                    "gained": 3000,
+                    "lost": 480,
+                    "defeats": 85,
+                    "draws": 2,
+                    "victories": 240
+                }
+            }
+        },
+        {
+            "id": "16000012",
+            "name": "8-BIT",
+            "stats": {
+                "ranked": {
+                    "victories": 20,
+                    "defeats": 12,
+                    "draws": 3
+                },
+                "star_player_count": 52,
+                "trophies": {
+                    "gained": 2500,
+                    "lost": 530,
+                    "defeats": 90,
+                    "draws": 3,
+                    "victories": 210
+                }
+            }
+        },
+        {
+            "id": "16000013",
+            "name": "EMZ",
+            "stats": {
+                "ranked": {
+                    "victories": 24,
+                    "defeats": 9,
+                    "draws": 1
+                },
+                "star_player_count": 61,
+                "trophies": {
+                    "gained": 2800,
+                    "lost": 510,
+                    "defeats": 88,
+                    "draws": 2,
+                    "victories": 230
+                }
+            }
+        },
+        {
+            "id": "16000014",
+            "name": "STU",
+            "stats": {
+                "ranked": {
+                    "victories": 29,
+                    "defeats": 5,
+                    "draws": 2
+                },
+                "star_player_count": 75,
+                "trophies": {
+                    "gained": 3400,
+                    "lost": 390,
+                    "defeats": 65,
+                    "draws": 1,
+                    "victories": 300
+                }
+            }
+        }
+    ]
+}

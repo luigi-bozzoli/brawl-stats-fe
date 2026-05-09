@@ -1,0 +1,46 @@
+{
+    "id": "#8GVYC8",
+    "maps": [
+        {
+            "id": "0152c98a1604",
+            "name": "BOSS DRAGROM",
+            "mode": {
+                "id": 61,
+                "name": "unknown"
+            },
+            "stats": {
+                "ranked": {
+                    "victories": 25,
+                    "defeats": 7,
+                    "draws": 2
+                },
+                "star_player_count": 86,
+                "trophies": {
+                    "gained": 2635,
+                    "lost": 512,
+                    "defeats": 93,
+                    "draws": 2,
+                    "victories": 227
+                }
+            }
+        },
+        {
+            "id": "0667fc8345e7",
+            "name": "Parallel Plays",
+            "mode": {
+                "id": 17,
+                "name": "hotZone"
+            },
+            "stats": {
+                "star_player_count": 86,
+                "trophies": {
+                    "gained": 2635,
+                    "lost": 512,
+                    "defeats": 93,
+                    "draws": 2,
+                    "victories": 227
+                }
+            }
+        }
+    ]
+}

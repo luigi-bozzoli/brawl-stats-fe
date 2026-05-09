@@ -1,0 +1,4669 @@
+[
+    {
+        "id": "#8GVYC8",
+        "brawlers": [
+            {
+                "id": 16000001,
+                "name": "COLT",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 24,
+                        "defeats": 9,
+                        "gained": 274,
+                        "lost": 26
+                    },
+                    "star_player_count": 7
+                }
+            },
+            {
+                "id": 16000004,
+                "name": "RICO",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 3
+                    }
+                }
+            },
+            {
+                "id": 16000006,
+                "name": "BARLEY",
+                "stats": {
+                    "ranked": {
+                        "victories": 1,
+                        "defeats": 3
+                    },
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 2,
+                        "gained": 58,
+                        "lost": 13
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "id": 16000008,
+                "name": "NITA",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 36,
+                        "defeats": 11,
+                        "gained": 479,
+                        "lost": 27
+                    },
+                    "star_player_count": 5
+                }
+            },
+            {
+                "id": 16000012,
+                "name": "CROW",
+                "stats": {
+                    "ranked": {
+                        "victories": 19,
+                        "defeats": 10
+                    },
+                    "trophies": {
+                        "victories": 11,
+                        "defeats": 5,
+                        "gained": 62,
+                        "lost": 13
+                    },
+                    "star_player_count": 4
+                }
+            },
+            {
+                "id": 16000014,
+                "name": "BO",
+                "stats": {
+                    "ranked": {
+                        "victories": 2
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "id": 16000015,
+                "name": "PIPER",
+                "stats": {
+                    "ranked": {
+                        "victories": 1,
+                        "defeats": 3
+                    },
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 2,
+                        "gained": 136,
+                        "lost": 15
+                    },
+                    "star_player_count": 4
+                }
+            },
+            {
+                "id": 16000018,
+                "name": "DARRYL",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6,
+                        "defeats": 5,
+                        "gained": 54,
+                        "lost": 15
+                    }
+                }
+            },
+            {
+                "id": 16000021,
+                "name": "GENE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 60,
+                        "defeats": 28,
+                        "gained": 763,
+                        "lost": 71
+                    },
+                    "star_player_count": 19
+                }
+            },
+            {
+                "id": 16000022,
+                "name": "TICK",
+                "stats": {
+                    "ranked": {
+                        "victories": 4,
+                        "defeats": 3
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000023,
+                "name": "LEON",
+                "stats": {
+                    "ranked": {
+                        "victories": 6,
+                        "defeats": 3
+                    },
+                    "trophies": {
+                        "victories": 47,
+                        "defeats": 24,
+                        "draws": 1,
+                        "gained": 656,
+                        "lost": 195
+                    },
+                    "star_player_count": 17
+                }
+            },
+            {
+                "id": 16000025,
+                "name": "CARL",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 45,
+                        "defeats": 10,
+                        "gained": 676,
+                        "lost": 26
+                    },
+                    "star_player_count": 23
+                }
+            },
+            {
+                "id": 16000026,
+                "name": "BIBI",
+                "stats": {
+                    "ranked": {
+                        "victories": 3,
+                        "defeats": 8
+                    },
+                    "trophies": {
+                        "victories": 33,
+                        "defeats": 2,
+                        "draws": 1,
+                        "gained": 501,
+                        "lost": 7
+                    },
+                    "star_player_count": 22
+                }
+            },
+            {
+                "id": 16000030,
+                "name": "EMZ",
+                "stats": {
+                    "ranked": {
+                        "victories": 7,
+                        "defeats": 1
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000037,
+                "name": "SPROUT",
+                "stats": {
+                    "ranked": {
+                        "defeats": 2
+                    },
+                    "trophies": {
+                        "victories": 66,
+                        "defeats": 26,
+                        "gained": 846,
+                        "lost": 56
+                    },
+                    "star_player_count": 38
+                }
+            },
+            {
+                "id": 16000038,
+                "name": "SURGE",
+                "stats": {
+                    "ranked": {
+                        "victories": 19,
+                        "defeats": 7
+                    },
+                    "trophies": {
+                        "victories": 10,
+                        "defeats": 11,
+                        "gained": 65,
+                        "lost": 94
+                    },
+                    "star_player_count": 15
+                }
+            },
+            {
+                "id": 16000042,
+                "name": "BYRON",
+                "stats": {
+                    "ranked": {
+                        "victories": 8,
+                        "defeats": 3
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000043,
+                "name": "EDGAR",
+                "stats": {
+                    "ranked": {
+                        "victories": 6,
+                        "defeats": 6
+                    },
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 3,
+                        "gained": 33,
+                        "lost": 10
+                    },
+                    "star_player_count": 6
+                }
+            },
+            {
+                "id": 16000046,
+                "name": "BELLE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 57,
+                        "defeats": 20,
+                        "gained": 751,
+                        "lost": 44
+                    },
+                    "star_player_count": 32
+                }
+            },
+            {
+                "id": 16000049,
+                "name": "BUZZ",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 11
+                    }
+                }
+            },
+            {
+                "id": 16000052,
+                "name": "MEG",
+                "stats": {
+                    "ranked": {
+                        "defeats": 1
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "id": 16000063,
+                "name": "CHESTER",
+                "stats": {
+                    "ranked": {
+                        "victories": 1,
+                        "defeats": 3
+                    },
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 2
+                    }
+                }
+            },
+            {
+                "id": 16000065,
+                "name": "MANDY",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 8,
+                        "defeats": 7,
+                        "gained": 85,
+                        "lost": 10
+                    },
+                    "star_player_count": 9
+                }
+            },
+            {
+                "id": 16000071,
+                "name": "DOUG",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 19,
+                        "defeats": 4,
+                        "gained": 260,
+                        "lost": 13
+                    }
+                }
+            },
+            {
+                "id": 16000072,
+                "name": "PEARL",
+                "stats": {
+                    "ranked": {
+                        "victories": 9,
+                        "defeats": 5
+                    },
+                    "trophies": {
+                        "victories": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000075,
+                "name": "MICO",
+                "stats": {
+                    "ranked": {
+                        "victories": 10,
+                        "defeats": 5
+                    },
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 3,
+                        "gained": 54,
+                        "lost": 5
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "id": 16000076,
+                "name": "KIT",
+                "stats": {
+                    "ranked": {
+                        "victories": 3,
+                        "defeats": 3
+                    },
+                    "trophies": {
+                        "victories": 4,
+                        "gained": 15
+                    },
+                    "star_player_count": 4
+                }
+            },
+            {
+                "id": 16000081,
+                "name": "LILY",
+                "stats": {
+                    "ranked": {
+                        "victories": 7,
+                        "defeats": 4
+                    },
+                    "trophies": {
+                        "victories": 42,
+                        "defeats": 32,
+                        "draws": 1,
+                        "gained": 386,
+                        "lost": 266
+                    },
+                    "star_player_count": 9
+                }
+            },
+            {
+                "id": 16000085,
+                "name": "KENJI",
+                "stats": {
+                    "ranked": {
+                        "victories": 2
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000086,
+                "name": "SHADE",
+                "stats": {
+                    "ranked": {
+                        "victories": 2,
+                        "defeats": 1
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "id": 16000089,
+                "name": "MEEPLE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 2
+                    }
+                }
+            },
+            {
+                "id": 16000090,
+                "name": "OLLIE",
+                "stats": {
+                    "ranked": {
+                        "victories": 1
+                    },
+                    "trophies": {
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "id": 16000091,
+                "name": "LUMI",
+                "stats": {
+                    "ranked": {
+                        "victories": 8,
+                        "defeats": 7
+                    },
+                    "trophies": {
+                        "victories": 41,
+                        "defeats": 14,
+                        "gained": 215,
+                        "lost": 54
+                    },
+                    "star_player_count": 13
+                }
+            },
+            {
+                "id": 16000098,
+                "name": "ZIGGY",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 64,
+                        "defeats": 20,
+                        "gained": 869,
+                        "lost": 36
+                    },
+                    "star_player_count": 31
+                }
+            },
+            {
+                "id": 16000100,
+                "name": "GIGI",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 8,
+                        "gained": 139
+                    },
+                    "star_player_count": 5
+                }
+            },
+            {
+                "id": 16000102,
+                "name": "SIRIUS",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 62,
+                        "defeats": 16,
+                        "gained": 786,
+                        "lost": 29
+                    },
+                    "star_player_count": 12
+                }
+            },
+            {
+                "id": 16000103,
+                "name": "NAJIA",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 10
+                    }
+                }
+            },
+            {
+                "id": 16000104,
+                "name": "DAMIAN",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1
+                    }
+                }
+            }
+        ],
+        "maps": [
+            {
+                "name": "Quick Travel",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 5,
+                        "defeats": 2
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "BOSS DRAGROM",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 7,
+                        "defeats": 4
+                    }
+                }
+            },
+            {
+                "name": "Parallel Plays",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 2,
+                        "defeats": 4
+                    },
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 1,
+                        "gained": 55,
+                        "lost": 2
+                    },
+                    "star_player_count": 4
+                }
+            },
+            {
+                "name": "Super Beach",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 33,
+                        "defeats": 3,
+                        "draws": 1,
+                        "gained": 501,
+                        "lost": 9
+                    },
+                    "star_player_count": 20
+                }
+            },
+            {
+                "name": "Out in the Open",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 2,
+                        "defeats": 4
+                    },
+                    "trophies": {
+                        "victories": 24,
+                        "defeats": 8,
+                        "gained": 195,
+                        "lost": 57
+                    },
+                    "star_player_count": 14
+                }
+            },
+            {
+                "name": "Chivalry",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 45,
+                        "defeats": 13,
+                        "gained": 632,
+                        "lost": 42
+                    },
+                    "star_player_count": 24
+                }
+            },
+            {
+                "name": "Center Stage",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 3
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Twisting Vines",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 10
+                    }
+                }
+            },
+            {
+                "name": "Crescendo",
+                "mode": {
+                    "id": 35,
+                    "name": "knockout5V5"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6,
+                        "defeats": 7,
+                        "gained": 52,
+                        "lost": 10
+                    },
+                    "star_player_count": 8
+                }
+            },
+            {
+                "name": "Spiraling Out",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "defeats": 1
+                    },
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 1,
+                        "gained": 3
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Double Decker",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 24,
+                        "defeats": 7,
+                        "gained": 300,
+                        "lost": 36
+                    },
+                    "star_player_count": 9
+                }
+            },
+            {
+                "name": "Gated Community",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 1,
+                        "gained": 19,
+                        "lost": 2
+                    }
+                }
+            },
+            {
+                "name": "Healthy Middle Ground",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 8,
+                        "defeats": 4,
+                        "gained": 87,
+                        "lost": 28
+                    },
+                    "star_player_count": 7
+                }
+            },
+            {
+                "name": "Truth",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 4,
+                        "gained": 20,
+                        "lost": 16
+                    }
+                }
+            },
+            {
+                "name": "Hot Potato",
+                "mode": {
+                    "id": 2,
+                    "name": "heist"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 3,
+                        "defeats": 6
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "name": "Rockwall Brawl",
+                "mode": {
+                    "id": 6,
+                    "name": "soloShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 22,
+                        "defeats": 3,
+                        "gained": 270,
+                        "lost": 8
+                    }
+                }
+            },
+            {
+                "name": "Starfruit Supernova",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 20,
+                        "defeats": 7,
+                        "gained": 212,
+                        "lost": 16
+                    }
+                }
+            },
+            {
+                "name": "Belle's Rock",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 1,
+                        "defeats": 4
+                    },
+                    "trophies": {
+                        "victories": 44,
+                        "defeats": 26,
+                        "gained": 540,
+                        "lost": 82
+                    },
+                    "star_player_count": 21
+                }
+            },
+            {
+                "name": "Gem Fort",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 9,
+                        "defeats": 3
+                    },
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 2,
+                        "gained": 3
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "In the Liminal",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 3,
+                        "defeats": 5
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Layer Cake",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 10,
+                        "defeats": 4
+                    },
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 1,
+                        "lost": 2
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Nutmeg",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 1,
+                        "gained": 10,
+                        "lost": 4
+                    }
+                }
+            },
+            {
+                "name": "Golden Bay",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 1,
+                        "gained": 26,
+                        "lost": -1
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "name": "Flaring Phoenix",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 10
+                    },
+                    "trophies": {
+                        "victories": 40,
+                        "defeats": 10,
+                        "gained": 543,
+                        "lost": 41
+                    },
+                    "star_player_count": 12
+                }
+            },
+            {
+                "name": "Pinned Down",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 12,
+                        "defeats": 6,
+                        "draws": 1,
+                        "gained": 161,
+                        "lost": 40
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Journey of a Thousand Steps",
+                "mode": {
+                    "id": 35,
+                    "name": "knockout5V5"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 3,
+                        "gained": 33,
+                        "lost": 28
+                    }
+                }
+            },
+            {
+                "name": "Flowing Springs",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "gained": 37
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "No Good Deed",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 4,
+                        "gained": 38,
+                        "lost": 18
+                    }
+                }
+            },
+            {
+                "name": "Ring of Fire",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 2,
+                        "defeats": 1
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Please Remain Standing",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 1,
+                        "gained": 10,
+                        "lost": 4
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "New Perspective",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 24,
+                        "defeats": 6,
+                        "gained": 358,
+                        "lost": 13
+                    },
+                    "star_player_count": 13
+                }
+            },
+            {
+                "name": "Sidetrack",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Goldarm Gulch",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 46,
+                        "defeats": 16,
+                        "gained": 560,
+                        "lost": 58
+                    },
+                    "star_player_count": 32
+                }
+            },
+            {
+                "name": "Bridge Too Far",
+                "mode": {
+                    "id": 2,
+                    "name": "heist"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 6,
+                        "defeats": 5
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "name": "Watermelons",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 20
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Crab Claws",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 6,
+                        "gained": 53,
+                        "lost": 60
+                    }
+                }
+            },
+            {
+                "name": "Open Business",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 2,
+                        "defeats": 3
+                    },
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 5,
+                        "gained": 98,
+                        "lost": 7
+                    },
+                    "star_player_count": 6
+                }
+            },
+            {
+                "name": "Konnakol",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 55,
+                        "defeats": 18,
+                        "gained": 834,
+                        "lost": 79
+                    },
+                    "star_player_count": 24
+                }
+            },
+            {
+                "name": "Makeshift Scaffolding",
+                "mode": {
+                    "id": 38,
+                    "name": "trioShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 4,
+                        "gained": 100,
+                        "lost": 16
+                    }
+                }
+            },
+            {
+                "name": "BOSS CROW",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3
+                    }
+                }
+            },
+            {
+                "name": "Kaboom Canyon",
+                "mode": {
+                    "id": 2,
+                    "name": "heist"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 2,
+                        "defeats": 2
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "name": "Cavern Churn",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 12,
+                        "defeats": 2,
+                        "gained": 163,
+                        "lost": 5
+                    }
+                }
+            },
+            {
+                "name": "Acid Lakes",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 3,
+                        "gained": 25,
+                        "lost": 14
+                    }
+                }
+            },
+            {
+                "name": "Pinball Dreams",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 3,
+                        "defeats": 2
+                    },
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 3,
+                        "gained": 102,
+                        "lost": 15
+                    },
+                    "star_player_count": 7
+                }
+            },
+            {
+                "name": "Shooting Star",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 4,
+                        "defeats": 1
+                    },
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 2
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "name": "BOSS DRAGON MAISIE",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6
+                    }
+                }
+            },
+            {
+                "name": "New Horizons",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 6,
+                        "defeats": 3
+                    },
+                    "trophies": {},
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Safe Zone",
+                "mode": {
+                    "id": 2,
+                    "name": "heist"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 2,
+                        "defeats": 3
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Dry Season",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 6,
+                        "defeats": 4
+                    },
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 1
+                    },
+                    "star_player_count": 4
+                }
+            },
+            {
+                "name": "Think Ahead",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 27,
+                        "defeats": 10,
+                        "draws": 1,
+                        "gained": 455,
+                        "lost": 52
+                    },
+                    "star_player_count": 13
+                }
+            },
+            {
+                "name": "BOSS DRAGON GRIFF",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6
+                    }
+                }
+            },
+            {
+                "name": "Double Swoosh",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 4,
+                        "defeats": 1
+                    },
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 1,
+                        "gained": 29,
+                        "lost": 10
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "name": "Hideout",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 9,
+                        "defeats": 5
+                    },
+                    "trophies": {},
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Hard Rock Mine",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 3
+                    },
+                    "trophies": {
+                        "defeats": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Dueling Beetles",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 3,
+                        "defeats": 2
+                    },
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 10
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Four Levels",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 8,
+                        "defeats": 7,
+                        "gained": 64,
+                        "lost": 70
+                    }
+                }
+            },
+            {
+                "name": "Molten to the Core",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6,
+                        "defeats": 4,
+                        "gained": 79,
+                        "lost": 11
+                    }
+                }
+            },
+            {
+                "name": "Streets with No Name",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 35,
+                        "defeats": 15,
+                        "gained": 451,
+                        "lost": 52
+                    },
+                    "star_player_count": 14
+                }
+            },
+            {
+                "name": "Cabin Fever",
+                "mode": {
+                    "id": 45,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 2,
+                        "gained": 10,
+                        "lost": 6
+                    }
+                }
+            },
+            {
+                "name": "Sneaky Fields",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 11,
+                        "defeats": 3
+                    },
+                    "trophies": {
+                        "victories": 1
+                    },
+                    "star_player_count": 6
+                }
+            },
+            {
+                "name": "Rastermind",
+                "mode": {
+                    "id": 35,
+                    "name": "knockout5V5"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 3
+                    }
+                }
+            },
+            {
+                "name": "Beach Ball",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6,
+                        "defeats": 6,
+                        "gained": 68,
+                        "lost": 27
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Safety Center",
+                "mode": {
+                    "id": 6,
+                    "name": "soloShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 24,
+                        "defeats": 7,
+                        "gained": 300,
+                        "lost": 20
+                    }
+                }
+            },
+            {
+                "name": "Feast or Famine",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 30,
+                        "defeats": 7,
+                        "gained": 367,
+                        "lost": 23
+                    }
+                }
+            },
+            {
+                "name": "Stardust Storm",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Stockpile Stadium",
+                "mode": {
+                    "id": 32,
+                    "name": "brawlBall5V5"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 12
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Opening Move",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 3,
+                        "gained": 134,
+                        "lost": -3
+                    },
+                    "star_player_count": 5
+                }
+            },
+            {
+                "name": "Hyperspace",
+                "mode": {
+                    "id": 45,
+                    "name": "airHockey"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 15
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "H is for Holiday",
+                "mode": {
+                    "id": 45,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 3
+                    }
+                }
+            },
+            {
+                "name": "Triple Dribble",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 4,
+                        "defeats": 4
+                    },
+                    "trophies": {
+                        "victories": 11,
+                        "defeats": 5,
+                        "gained": 130,
+                        "lost": 34
+                    },
+                    "star_player_count": 5
+                }
+            },
+            {
+                "name": "Undermine",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 4,
+                        "defeats": 6
+                    },
+                    "trophies": {},
+                    "star_player_count": 2
+                }
+            },
+            {
+                "name": "BOSS BRUCE NITA",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 2
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "#LPGVV9V",
+        "brawlers": [
+            {
+                "id": 16000000,
+                "name": "SHELLY",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 5
+                    }
+                }
+            },
+            {
+                "id": 16000001,
+                "name": "COLT",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 2
+                    }
+                }
+            },
+            {
+                "id": 16000002,
+                "name": "BULL",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "id": 16000003,
+                "name": "BROCK",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 2,
+                        "gained": 2
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "id": 16000004,
+                "name": "RICO",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "id": 16000006,
+                "name": "BARLEY",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 3,
+                        "gained": 31,
+                        "lost": 6
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000007,
+                "name": "JESSIE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3
+                    }
+                }
+            },
+            {
+                "id": 16000008,
+                "name": "NITA",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "gained": 14
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 52,
+                        "defeats": 38,
+                        "gained": 589,
+                        "lost": 124
+                    },
+                    "star_player_count": 11
+                }
+            },
+            {
+                "id": 16000010,
+                "name": "EL PRIMO",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 38,
+                        "defeats": 19,
+                        "draws": 1,
+                        "gained": 453,
+                        "lost": 67
+                    },
+                    "star_player_count": 18
+                }
+            },
+            {
+                "id": 16000011,
+                "name": "MORTIS",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 22,
+                        "defeats": 9,
+                        "gained": 376,
+                        "lost": 33
+                    },
+                    "star_player_count": 6
+                }
+            },
+            {
+                "id": 16000012,
+                "name": "CROW",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1
+                    }
+                }
+            },
+            {
+                "id": 16000013,
+                "name": "POCO",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 33,
+                        "defeats": 21,
+                        "gained": 400,
+                        "lost": 70
+                    },
+                    "star_player_count": 14
+                }
+            },
+            {
+                "id": 16000016,
+                "name": "PAM",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 5,
+                        "gained": 101,
+                        "lost": 13
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000022,
+                "name": "TICK",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 11
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000023,
+                "name": "LEON",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 4,
+                        "gained": 33,
+                        "lost": 8
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000024,
+                "name": "ROSA",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 41,
+                        "defeats": 19,
+                        "gained": 483,
+                        "lost": 52
+                    },
+                    "star_player_count": 18
+                }
+            },
+            {
+                "id": 16000025,
+                "name": "CARL",
+                "stats": {
+                    "ranked": {
+                        "victories": 1
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "id": 16000026,
+                "name": "BIBI",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 35,
+                        "defeats": 24,
+                        "gained": 351,
+                        "lost": 75
+                    },
+                    "star_player_count": 19
+                }
+            },
+            {
+                "id": 16000029,
+                "name": "BEA",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 35,
+                        "defeats": 13,
+                        "gained": 493,
+                        "lost": 41
+                    },
+                    "star_player_count": 8
+                }
+            },
+            {
+                "id": 16000030,
+                "name": "EMZ",
+                "stats": {
+                    "ranked": {
+                        "victories": 1
+                    },
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 2,
+                        "lost": 5
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "id": 16000032,
+                "name": "MAX",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 32,
+                        "defeats": 11,
+                        "gained": 478,
+                        "lost": 22
+                    },
+                    "star_player_count": 14
+                }
+            },
+            {
+                "id": 16000034,
+                "name": "JACKY",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 43,
+                        "defeats": 21,
+                        "gained": 538,
+                        "lost": 46
+                    },
+                    "star_player_count": 26
+                }
+            },
+            {
+                "id": 16000035,
+                "name": "GALE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 28,
+                        "defeats": 10,
+                        "gained": 344,
+                        "lost": 35
+                    },
+                    "star_player_count": 7
+                }
+            },
+            {
+                "id": 16000036,
+                "name": "NANI",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 10,
+                        "defeats": 11,
+                        "gained": 105,
+                        "lost": 22
+                    }
+                }
+            },
+            {
+                "id": 16000038,
+                "name": "SURGE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 5,
+                        "gained": 41,
+                        "lost": 16
+                    }
+                }
+            },
+            {
+                "id": 16000040,
+                "name": "AMBER",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 3,
+                        "gained": 43,
+                        "lost": 15
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "id": 16000041,
+                "name": "LOU",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 1,
+                        "gained": 49,
+                        "lost": 2
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000048,
+                "name": "GROM",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 44,
+                        "defeats": 17,
+                        "gained": 579,
+                        "lost": 44
+                    },
+                    "star_player_count": 11
+                }
+            },
+            {
+                "id": 16000049,
+                "name": "BUZZ",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 36,
+                        "defeats": 19,
+                        "gained": 473,
+                        "lost": 54
+                    },
+                    "star_player_count": 9
+                }
+            },
+            {
+                "id": 16000050,
+                "name": "GRIFF",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "id": 16000054,
+                "name": "FANG",
+                "stats": {
+                    "ranked": {
+                        "victories": 1
+                    },
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 2,
+                        "gained": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000058,
+                "name": "BONNIE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 1,
+                        "gained": 27,
+                        "lost": -1
+                    }
+                }
+            },
+            {
+                "id": 16000060,
+                "name": "SAM",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 29,
+                        "defeats": 8,
+                        "gained": 407,
+                        "lost": 22
+                    },
+                    "star_player_count": 16
+                }
+            },
+            {
+                "id": 16000064,
+                "name": "GRAY",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 12
+                    }
+                }
+            },
+            {
+                "id": 16000065,
+                "name": "MANDY",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": -1
+                    }
+                }
+            },
+            {
+                "id": 16000067,
+                "name": "WILLOW",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 73,
+                        "defeats": 28,
+                        "gained": 924,
+                        "lost": 45
+                    },
+                    "star_player_count": 27
+                }
+            },
+            {
+                "id": 16000069,
+                "name": "HANK",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "gained": 29
+                    }
+                }
+            },
+            {
+                "id": 16000076,
+                "name": "KIT",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 35,
+                        "defeats": 13,
+                        "gained": 339,
+                        "lost": 41
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "id": 16000077,
+                "name": "LARRY & LAWRIE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 7,
+                        "defeats": 4,
+                        "gained": 82,
+                        "lost": 5
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000079,
+                "name": "ANGELO",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 2,
+                        "gained": 23,
+                        "lost": -2
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "id": 16000081,
+                "name": "LILY",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 17
+                    }
+                }
+            },
+            {
+                "id": 16000082,
+                "name": "BERRY",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 18
+                    }
+                }
+            },
+            {
+                "id": 16000085,
+                "name": "KENJI",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 5
+                    }
+                }
+            },
+            {
+                "id": 16000087,
+                "name": "JUJU",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5,
+                        "gained": 70
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000094,
+                "name": "KAZE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 1,
+                        "gained": 21,
+                        "lost": 2
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "id": 16000099,
+                "name": "PIERCE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 7,
+                        "defeats": 4,
+                        "gained": 80,
+                        "lost": 9
+                    },
+                    "star_player_count": 4
+                }
+            },
+            {
+                "id": 16000100,
+                "name": "GIGI",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "gained": 50
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "id": 16000102,
+                "name": "SIRIUS",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 3,
+                        "lost": 6
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000103,
+                "name": "NAJIA",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 5,
+                        "gained": 27,
+                        "lost": 5
+                    },
+                    "star_player_count": 4
+                }
+            },
+            {
+                "id": 16000104,
+                "name": "DAMIAN",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2
+                    },
+                    "star_player_count": 1
+                }
+            }
+        ],
+        "maps": [
+            {
+                "name": "Grass Knot",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 32,
+                        "defeats": 13,
+                        "gained": 430,
+                        "lost": 33
+                    },
+                    "star_player_count": 14
+                }
+            },
+            {
+                "name": "Super Beach",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 39,
+                        "defeats": 26,
+                        "gained": 436,
+                        "lost": 59
+                    },
+                    "star_player_count": 9
+                }
+            },
+            {
+                "name": "Out in the Open",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 2,
+                        "gained": 3
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Center Stage",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 1
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "name": "Spiraling Out",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 49,
+                        "defeats": 15,
+                        "draws": 1,
+                        "gained": 610,
+                        "lost": 33
+                    },
+                    "star_player_count": 14
+                }
+            },
+            {
+                "name": "Sunny Soccer",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 39,
+                        "defeats": 22,
+                        "gained": 475,
+                        "lost": 71
+                    },
+                    "star_player_count": 15
+                }
+            },
+            {
+                "name": "Backyard Bowl",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 22,
+                        "defeats": 13,
+                        "gained": 269,
+                        "lost": 49
+                    },
+                    "star_player_count": 9
+                }
+            },
+            {
+                "name": "Pinhole Punt",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 55,
+                        "defeats": 29,
+                        "gained": 659,
+                        "lost": 66
+                    },
+                    "star_player_count": 25
+                }
+            },
+            {
+                "name": "Goalies",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 51,
+                        "defeats": 21,
+                        "gained": 712,
+                        "lost": 71
+                    },
+                    "star_player_count": 23
+                }
+            },
+            {
+                "name": "Match 1123581321",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 14,
+                        "defeats": 8,
+                        "gained": 213,
+                        "lost": 14
+                    },
+                    "star_player_count": 5
+                }
+            },
+            {
+                "name": "Belle's Rock",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 3,
+                        "gained": 27,
+                        "lost": 0
+                    }
+                }
+            },
+            {
+                "name": "Gem Fort",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "gained": 3
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Layer Cake",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Nutmeg",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 46,
+                        "defeats": 13,
+                        "gained": 564,
+                        "lost": 33
+                    },
+                    "star_player_count": 16
+                }
+            },
+            {
+                "name": "No Good Deed",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 21,
+                        "defeats": 7,
+                        "gained": 272,
+                        "lost": 25
+                    },
+                    "star_player_count": 6
+                }
+            },
+            {
+                "name": "Singed Earth",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 7,
+                        "gained": 111,
+                        "lost": 13
+                    },
+                    "star_player_count": 7
+                }
+            },
+            {
+                "name": "New Perspective",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 3,
+                        "gained": 50,
+                        "lost": 9
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "name": "Sidetrack",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 30,
+                        "defeats": 16,
+                        "gained": 345,
+                        "lost": 30
+                    },
+                    "star_player_count": 12
+                }
+            },
+            {
+                "name": "Crab Claws",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "gained": 23
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Konnakol",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 10
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Makeshift Scaffolding",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 24,
+                        "defeats": 6,
+                        "gained": 222,
+                        "lost": 18
+                    }
+                }
+            },
+            {
+                "name": "Acid Lakes",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 2
+                    }
+                }
+            },
+            {
+                "name": "Pinball Dreams",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 96,
+                        "defeats": 55,
+                        "gained": 1196,
+                        "lost": 177
+                    },
+                    "star_player_count": 26
+                }
+            },
+            {
+                "name": "Shooting Star",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 7,
+                        "defeats": 3
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Dry Season",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 2
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "name": "Slippery Slap",
+                "mode": {
+                    "id": 45,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "BOSS DRAGON GRIFF",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "name": "Double Swoosh",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1
+                    }
+                }
+            },
+            {
+                "name": "Hideout",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 11
+                    }
+                }
+            },
+            {
+                "name": "Hard Rock Mine",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "name": "Dueling Beetles",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 1
+                    },
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "name": "Sneaky Fields",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 34,
+                        "defeats": 14,
+                        "gained": 416,
+                        "lost": 39
+                    },
+                    "star_player_count": 14
+                }
+            },
+            {
+                "name": "Beach Ball",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 42,
+                        "defeats": 21,
+                        "gained": 567,
+                        "lost": 53
+                    },
+                    "star_player_count": 12
+                }
+            },
+            {
+                "name": "Triple Dribble",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 1
+                    },
+                    "trophies": {
+                        "victories": 45,
+                        "defeats": 30,
+                        "gained": 490,
+                        "lost": 96
+                    },
+                    "star_player_count": 19
+                }
+            },
+            {
+                "name": "BOSS BRUCE NITA",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 1
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "#8J9J8PQ8G",
+        "brawlers": [
+            {
+                "id": 16000000,
+                "name": "SHELLY",
+                "stats": {
+                    "ranked": {
+                        "defeats": 2
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "id": 16000001,
+                "name": "COLT",
+                "stats": {
+                    "ranked": {
+                        "defeats": 2
+                    },
+                    "trophies": {
+                        "victories": 6,
+                        "defeats": 4
+                    }
+                }
+            },
+            {
+                "id": 16000003,
+                "name": "BROCK",
+                "stats": {
+                    "ranked": {
+                        "victories": 11,
+                        "defeats": 5
+                    },
+                    "trophies": {
+                        "victories": 34,
+                        "defeats": 16,
+                        "gained": 250,
+                        "lost": 35
+                    },
+                    "star_player_count": 5
+                }
+            },
+            {
+                "id": 16000004,
+                "name": "RICO",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 5,
+                        "gained": 40,
+                        "lost": 19
+                    }
+                }
+            },
+            {
+                "id": 16000005,
+                "name": "SPIKE",
+                "stats": {
+                    "ranked": {
+                        "victories": 15,
+                        "defeats": 12,
+                        "draws": 1
+                    },
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 3,
+                        "gained": 10,
+                        "lost": 13
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000006,
+                "name": "BARLEY",
+                "stats": {
+                    "ranked": {
+                        "victories": 50,
+                        "defeats": 36,
+                        "draws": 2
+                    },
+                    "trophies": {
+                        "victories": 8,
+                        "defeats": 5,
+                        "gained": 15,
+                        "lost": 5
+                    },
+                    "star_player_count": 9
+                }
+            },
+            {
+                "id": 16000007,
+                "name": "JESSIE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 12,
+                        "defeats": 15,
+                        "gained": 109,
+                        "lost": 58
+                    }
+                }
+            },
+            {
+                "id": 16000009,
+                "name": "DYNAMIKE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 38,
+                        "defeats": 34,
+                        "gained": 435,
+                        "lost": 122
+                    },
+                    "star_player_count": 7
+                }
+            },
+            {
+                "id": 16000012,
+                "name": "CROW",
+                "stats": {
+                    "ranked": {
+                        "victories": 31,
+                        "defeats": 18
+                    },
+                    "trophies": {
+                        "victories": 50,
+                        "defeats": 27,
+                        "gained": 553,
+                        "lost": 132
+                    },
+                    "star_player_count": 7
+                }
+            },
+            {
+                "id": 16000013,
+                "name": "POCO",
+                "stats": {
+                    "ranked": {
+                        "victories": 10,
+                        "defeats": 11
+                    },
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 3,
+                        "gained": 20,
+                        "lost": 5
+                    }
+                }
+            },
+            {
+                "id": 16000014,
+                "name": "BO",
+                "stats": {
+                    "ranked": {
+                        "victories": 24,
+                        "defeats": 29
+                    },
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 3
+                    },
+                    "star_player_count": 9
+                }
+            },
+            {
+                "id": 16000015,
+                "name": "PIPER",
+                "stats": {
+                    "ranked": {
+                        "victories": 2
+                    },
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 4,
+                        "gained": 33,
+                        "lost": 7
+                    }
+                }
+            },
+            {
+                "id": 16000016,
+                "name": "PAM",
+                "stats": {
+                    "ranked": {
+                        "victories": 2,
+                        "defeats": 1
+                    },
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 6,
+                        "gained": 8,
+                        "lost": 15
+                    }
+                }
+            },
+            {
+                "id": 16000019,
+                "name": "PENNY",
+                "stats": {
+                    "ranked": {
+                        "victories": 6,
+                        "defeats": 5
+                    },
+                    "trophies": {
+                        "victories": 33,
+                        "defeats": 24,
+                        "gained": 464,
+                        "lost": 93
+                    },
+                    "star_player_count": 4
+                }
+            },
+            {
+                "id": 16000022,
+                "name": "TICK",
+                "stats": {
+                    "ranked": {
+                        "victories": 1,
+                        "defeats": 6
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "id": 16000023,
+                "name": "LEON",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 1,
+                        "gained": 95
+                    }
+                }
+            },
+            {
+                "id": 16000025,
+                "name": "CARL",
+                "stats": {
+                    "ranked": {
+                        "victories": 1,
+                        "defeats": 6
+                    },
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 2,
+                        "gained": 23,
+                        "lost": 11
+                    }
+                }
+            },
+            {
+                "id": 16000026,
+                "name": "BIBI",
+                "stats": {
+                    "ranked": {
+                        "victories": 4,
+                        "defeats": 4
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "id": 16000029,
+                "name": "BEA",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 3,
+                        "gained": 65,
+                        "lost": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000035,
+                "name": "GALE",
+                "stats": {
+                    "ranked": {
+                        "victories": 7,
+                        "defeats": 6
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000040,
+                "name": "AMBER",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1
+                    }
+                }
+            },
+            {
+                "id": 16000041,
+                "name": "LOU",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 1,
+                        "gained": 58
+                    }
+                }
+            },
+            {
+                "id": 16000042,
+                "name": "BYRON",
+                "stats": {
+                    "ranked": {
+                        "victories": 7,
+                        "defeats": 18
+                    },
+                    "trophies": {
+                        "defeats": 3,
+                        "lost": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000043,
+                "name": "EDGAR",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 2,
+                        "gained": 48,
+                        "lost": 4
+                    }
+                }
+            },
+            {
+                "id": 16000044,
+                "name": "RUFFS",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "gained": 29
+                    }
+                }
+            },
+            {
+                "id": 16000048,
+                "name": "GROM",
+                "stats": {
+                    "ranked": {
+                        "victories": 1,
+                        "defeats": 4
+                    },
+                    "trophies": {
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "id": 16000049,
+                "name": "BUZZ",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "gained": 28
+                    }
+                }
+            },
+            {
+                "id": 16000050,
+                "name": "GRIFF",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "id": 16000051,
+                "name": "ASH",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 2
+                    }
+                }
+            },
+            {
+                "id": 16000052,
+                "name": "MEG",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6,
+                        "gained": 106
+                    }
+                }
+            },
+            {
+                "id": 16000053,
+                "name": "LOLA",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 14
+                    }
+                }
+            },
+            {
+                "id": 16000056,
+                "name": "EVE",
+                "stats": {
+                    "ranked": {
+                        "victories": 45,
+                        "defeats": 35
+                    },
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 4
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "id": 16000057,
+                "name": "JANET",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "gained": 51
+                    }
+                }
+            },
+            {
+                "id": 16000061,
+                "name": "GUS",
+                "stats": {
+                    "ranked": {
+                        "victories": 7,
+                        "defeats": 7
+                    },
+                    "trophies": {
+                        "victories": 6,
+                        "defeats": 1,
+                        "gained": 72,
+                        "lost": 1
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "id": 16000063,
+                "name": "CHESTER",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "gained": 72
+                    }
+                }
+            },
+            {
+                "id": 16000065,
+                "name": "MANDY",
+                "stats": {
+                    "ranked": {
+                        "victories": 20,
+                        "defeats": 24
+                    },
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 1
+                    },
+                    "star_player_count": 4
+                }
+            },
+            {
+                "id": 16000070,
+                "name": "CORDELIUS",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "gained": 45
+                    }
+                }
+            },
+            {
+                "id": 16000071,
+                "name": "DOUG",
+                "stats": {
+                    "ranked": {
+                        "victories": 2,
+                        "defeats": 2
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "id": 16000074,
+                "name": "CHARLIE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "gained": 42
+                    }
+                }
+            },
+            {
+                "id": 16000076,
+                "name": "KIT",
+                "stats": {
+                    "ranked": {
+                        "defeats": 2
+                    },
+                    "trophies": {
+                        "victories": 8,
+                        "defeats": 5,
+                        "gained": 56,
+                        "lost": 6
+                    }
+                }
+            },
+            {
+                "id": 16000079,
+                "name": "ANGELO",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 7,
+                        "defeats": 7,
+                        "gained": 89,
+                        "lost": 19
+                    }
+                }
+            },
+            {
+                "id": 16000081,
+                "name": "LILY",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 1,
+                        "gained": 66,
+                        "lost": 1
+                    }
+                }
+            },
+            {
+                "id": 16000082,
+                "name": "BERRY",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 1,
+                        "gained": 52,
+                        "lost": 1
+                    }
+                }
+            },
+            {
+                "id": 16000084,
+                "name": "MOE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6,
+                        "gained": 65
+                    }
+                }
+            },
+            {
+                "id": 16000085,
+                "name": "KENJI",
+                "stats": {
+                    "ranked": {
+                        "victories": 1,
+                        "defeats": 4
+                    },
+                    "trophies": {
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "id": 16000087,
+                "name": "JUJU",
+                "stats": {
+                    "ranked": {
+                        "victories": 12,
+                        "defeats": 12
+                    },
+                    "trophies": {
+                        "defeats": 2
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000092,
+                "name": "FINX",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1
+                    }
+                }
+            },
+            {
+                "id": 16000094,
+                "name": "KAZE",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 12
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "id": 16000102,
+                "name": "SIRIUS",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "gained": 25
+                    }
+                }
+            },
+            {
+                "id": 16000103,
+                "name": "NAJIA",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 2,
+                        "gained": 64
+                    }
+                }
+            },
+            {
+                "id": 16000104,
+                "name": "DAMIAN",
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2
+                    },
+                    "star_player_count": 1
+                }
+            }
+        ],
+        "maps": [
+            {
+                "name": "Quick Travel",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 4,
+                        "defeats": 4
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "name": "BOSS DRAGROM",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 12,
+                        "defeats": 18
+                    }
+                }
+            },
+            {
+                "name": "Parallel Plays",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 8,
+                        "defeats": 17
+                    },
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 2
+                    }
+                }
+            },
+            {
+                "name": "Super Beach",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Out in the Open",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 6,
+                        "defeats": 12
+                    },
+                    "trophies": {
+                        "defeats": 4
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Quintillion",
+                "mode": {
+                    "id": 2,
+                    "name": "heist"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 1,
+                        "gained": 115,
+                        "lost": 6
+                    }
+                }
+            },
+            {
+                "name": "Center Stage",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 8,
+                        "defeats": 13
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "name": "Twisting Vines",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6,
+                        "defeats": 6,
+                        "gained": 65,
+                        "lost": 23
+                    }
+                }
+            },
+            {
+                "name": "Crystal Arcade",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 11
+                    }
+                }
+            },
+            {
+                "name": "Spiraling Out",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 2,
+                        "defeats": 2
+                    },
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 2,
+                        "gained": 46,
+                        "lost": 10
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Deathcap Trap",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 5
+                    }
+                }
+            },
+            {
+                "name": "Gated Community",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 4,
+                        "gained": 90,
+                        "lost": 25
+                    }
+                }
+            },
+            {
+                "name": "Picturesque",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 1,
+                        "gained": 10,
+                        "lost": 6
+                    }
+                }
+            },
+            {
+                "name": "Healthy Middle Ground",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 2,
+                        "gained": 60,
+                        "lost": 7
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Truth",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 15,
+                        "defeats": 3,
+                        "gained": 224,
+                        "lost": 12
+                    }
+                }
+            },
+            {
+                "name": "Arena of Glory",
+                "mode": {
+                    "id": 48,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 1,
+                        "gained": 93,
+                        "lost": 11
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "name": "Hot Potato",
+                "mode": {
+                    "id": 2,
+                    "name": "heist"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 9,
+                        "defeats": 6
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "name": "Lilypond Grove",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 15,
+                        "defeats": 2,
+                        "gained": 216,
+                        "lost": 4
+                    }
+                }
+            },
+            {
+                "name": "Snake Pit",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 2,
+                        "gained": 10,
+                        "lost": 10
+                    }
+                }
+            },
+            {
+                "name": "Kroket",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6,
+                        "gained": 65
+                    }
+                }
+            },
+            {
+                "name": "Rockwall Brawl",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 3,
+                        "gained": 59,
+                        "lost": 10
+                    }
+                }
+            },
+            {
+                "name": "Pinhole Punt",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Starfruit Supernova",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 12,
+                        "defeats": 9,
+                        "gained": 144,
+                        "lost": 26
+                    }
+                }
+            },
+            {
+                "name": "Belle's Rock",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 16,
+                        "defeats": 12,
+                        "draws": 1
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "name": "Deep End",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "name": "Gem Fort",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 11,
+                        "defeats": 12
+                    },
+                    "trophies": {
+                        "victories": 6,
+                        "defeats": 2,
+                        "gained": 84,
+                        "lost": 18
+                    },
+                    "star_player_count": 4
+                }
+            },
+            {
+                "name": "In the Liminal",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 7,
+                        "defeats": 6
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Flying Fantasies",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 7,
+                        "defeats": 2,
+                        "gained": 91,
+                        "lost": 4
+                    }
+                }
+            },
+            {
+                "name": "Layer Cake",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 14,
+                        "defeats": 18
+                    },
+                    "trophies": {
+                        "victories": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Flaring Phoenix",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 8,
+                        "defeats": 6
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "name": "Insane Streamer",
+                "mode": {
+                    "id": 32,
+                    "name": "brawlBall5V5"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "defeats": 1,
+                        "lost": 8
+                    }
+                }
+            },
+            {
+                "name": "Ring of Fire",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 8,
+                        "defeats": 14
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Less is More",
+                "mode": {
+                    "id": 56,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 4,
+                        "defeats": 4,
+                        "gained": 51,
+                        "lost": 22
+                    }
+                }
+            },
+            {
+                "name": "Perpetual Motion",
+                "mode": {
+                    "id": 2,
+                    "name": "heist"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 2,
+                        "gained": 64,
+                        "lost": 9
+                    },
+                    "star_player_count": 2
+                }
+            },
+            {
+                "name": "Bridge Too Far",
+                "mode": {
+                    "id": 2,
+                    "name": "heist"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 12,
+                        "defeats": 7
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Skull Creek",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 12,
+                        "defeats": 7,
+                        "gained": 146,
+                        "lost": 36
+                    }
+                }
+            },
+            {
+                "name": "Open Business",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 13,
+                        "defeats": 8
+                    },
+                    "trophies": {},
+                    "star_player_count": 4
+                }
+            },
+            {
+                "name": "Hyacinth House",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 12,
+                        "defeats": 7,
+                        "gained": 142,
+                        "lost": 38
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Makeshift Scaffolding",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 17,
+                        "defeats": 4,
+                        "gained": 240,
+                        "lost": 10
+                    }
+                }
+            },
+            {
+                "name": "BOSS CROW",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 12,
+                        "defeats": 7
+                    }
+                }
+            },
+            {
+                "name": "Kaboom Canyon",
+                "mode": {
+                    "id": 2,
+                    "name": "heist"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 10,
+                        "defeats": 5
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Cavern Churn",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 11,
+                        "gained": 103,
+                        "lost": 50
+                    }
+                }
+            },
+            {
+                "name": "Acid Lakes",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 9,
+                        "defeats": 15,
+                        "gained": 94,
+                        "lost": 62
+                    }
+                }
+            },
+            {
+                "name": "Pinball Dreams",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 7,
+                        "defeats": 13
+                    },
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 3,
+                        "gained": 111,
+                        "lost": 18
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Shooting Star",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 5,
+                        "defeats": 5
+                    },
+                    "trophies": {
+                        "victories": 3,
+                        "defeats": 2
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "BOSS DRAGON MAISIE",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 12,
+                        "defeats": 1
+                    }
+                }
+            },
+            {
+                "name": "New Horizons",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 8,
+                        "defeats": 15
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "name": "Safe Zone",
+                "mode": {
+                    "id": 2,
+                    "name": "heist"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 23,
+                        "defeats": 11
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Dry Season",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 12,
+                        "defeats": 5
+                    },
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 1
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Slippery Slap",
+                "mode": {
+                    "id": 45,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1
+                    }
+                }
+            },
+            {
+                "name": "BOSS DRAGON GRIFF",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 13,
+                        "defeats": 20
+                    }
+                }
+            },
+            {
+                "name": "Double Swoosh",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 9,
+                        "defeats": 8
+                    },
+                    "trophies": {
+                        "victories": 12,
+                        "defeats": 5,
+                        "gained": 97,
+                        "lost": 24
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Hideout",
+                "mode": {
+                    "id": 3,
+                    "name": "bounty"
+                },
+                "stats": {
+                    "ranked": {
+                        "defeats": 8
+                    },
+                    "trophies": {}
+                }
+            },
+            {
+                "name": "Hard Rock Mine",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 8,
+                        "defeats": 10
+                    },
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 2
+                    },
+                    "star_player_count": 3
+                }
+            },
+            {
+                "name": "Desert Tendrils",
+                "mode": {
+                    "id": 6,
+                    "name": "soloShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 8
+                    }
+                }
+            },
+            {
+                "name": "Dueling Beetles",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 17,
+                        "defeats": 7
+                    },
+                    "trophies": {
+                        "defeats": 1
+                    },
+                    "star_player_count": 4
+                }
+            },
+            {
+                "name": "Molten to the Core",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 16,
+                        "defeats": 7,
+                        "gained": 257,
+                        "lost": 29
+                    }
+                }
+            },
+            {
+                "name": "Streets with No Name",
+                "mode": {
+                    "id": 20,
+                    "name": "knockout"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 5,
+                        "defeats": 2,
+                        "gained": 65,
+                        "lost": 1
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Sneaky Fields",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 6,
+                        "defeats": 13,
+                        "draws": 2
+                    },
+                    "trophies": {
+                        "victories": 1,
+                        "defeats": 2
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Beach Ball",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 4,
+                        "defeats": 2
+                    },
+                    "trophies": {},
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Safety Center",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 12,
+                        "defeats": 12,
+                        "gained": 209,
+                        "lost": 43
+                    }
+                }
+            },
+            {
+                "name": "Feast or Famine",
+                "mode": {
+                    "id": 9,
+                    "name": "duoShowdown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6,
+                        "defeats": 1,
+                        "gained": 83,
+                        "lost": 2
+                    }
+                }
+            },
+            {
+                "name": "Stardust Storm",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 2
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Stockpile Stadium",
+                "mode": {
+                    "id": 32,
+                    "name": "brawlBall5V5"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 10
+                    }
+                }
+            },
+            {
+                "name": "Triple Dribble",
+                "mode": {
+                    "id": 5,
+                    "name": "brawlBall"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 14,
+                        "defeats": 6
+                    },
+                    "trophies": {
+                        "victories": 2,
+                        "defeats": 2,
+                        "gained": 41,
+                        "lost": 18
+                    },
+                    "star_player_count": 1
+                }
+            },
+            {
+                "name": "Undermine",
+                "mode": {
+                    "id": 0,
+                    "name": "gemGrab"
+                },
+                "stats": {
+                    "ranked": {
+                        "victories": 10,
+                        "defeats": 6
+                    },
+                    "trophies": {},
+                    "star_player_count": 2
+                }
+            },
+            {
+                "name": "The Seven Pillars of Humanity",
+                "mode": {
+                    "id": 17,
+                    "name": "hotZone"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 1,
+                        "gained": 10
+                    }
+                }
+            },
+            {
+                "name": "BOSS BRUCE NITA",
+                "mode": {
+                    "id": 61,
+                    "name": "unknown"
+                },
+                "stats": {
+                    "ranked": {},
+                    "trophies": {
+                        "victories": 6,
+                        "defeats": 3
+                    }
+                }
+            }
+        ]
+    }
+]
